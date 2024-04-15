@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888760434662",
+    "project_id": "i-tube-fdbaf",
+    "storage_bucket": "i-tube-fdbaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888760434662:android:666b336071ab40dbfa6027",
+        "android_client_info": {
+          "package_name": "com.example.itube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9ZuOZ0gLbnYpP3oxgqkcVqrqg6tA2gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
